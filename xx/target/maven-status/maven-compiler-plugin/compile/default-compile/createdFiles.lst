@@ -1,3 +1,5 @@
 com\java\practise\jvm\MyRunnable.class
-com\java\practise\jvm\SeparateObjects.class
 com\java\practise\App.class
+com\java\practise\jvm\MyObject.class
+com\java\practise\jvm\SharedObjects.class
+com\java\practise\jvm\SeparateObjects.class
